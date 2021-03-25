@@ -1,6 +1,19 @@
-# music_player_sample
+# Music Player Design App
 
-A new Flutter project.
+This is a design from an image developed in Flutter.
+
+![mywalletapp](/images/musicplayer.gif)
+
+## Sections
+
+* HomePlayer
+
+## Build it with:
+
+_Tools used to develop this app:_
+
+* [Flutter](https://flutter.dev/) - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+
 
 ## Getting Started
 
@@ -14,3 +27,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+## Versioned
+
+I use [Git](https://git-scm.com/) for versioning.
+
+## Author/s
+
+_People handled to develop this app:_
+
+* **Alexis Hernández** - *Full work* - [alexis11hm](https://github.com/alexis11hm)
